@@ -15,3 +15,5 @@ User Interface: We've also designed a user-friendly interface that displays impo
 Here is a design document of Lost Legacy and at the end is a video demo. There is also a link which sends you to the game file to download. To play the game, simply download the link and import it into Unity!
 
 https://docs.google.com/document/d/1KNmGvBDZKOym_2Byw1_SI9jvwf7QEo5JEvgOZcaYw5g/edit?usp=sharing
+
+My partners: Nick Luckangelo (prop specialist and world building), Ben Ohlmeyer (Substance Painter and cutscenes)
